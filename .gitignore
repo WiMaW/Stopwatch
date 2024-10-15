@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Stopwatch with Productivity Timer/*
+!/Stopwatch with Productivity Timer/task/
+/Stopwatch with Productivity Timer/task/*
+!/Stopwatch with Productivity Timer/task/src
+!/Stopwatch with Productivity Timer/task/build.gradle
